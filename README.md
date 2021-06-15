@@ -22,8 +22,6 @@
 ## :bar_chart: Week
 <!--START_SECTION:waka-->
 ```text
-Week: 07 June, 2021 - 14 June, 2021
-
 
 ```
 <!--END_SECTION:waka-->
