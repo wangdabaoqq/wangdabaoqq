@@ -22,7 +22,7 @@
 ## :bar_chart: Week
 <!--START_SECTION:waka-->
 ```text
-Week: 07 June, 2021 - 14 June, 2021
+Week: 08 June, 2021 - 15 June, 2021
 
 
 ```
