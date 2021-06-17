@@ -22,8 +22,6 @@
 ## :bar_chart: Week
 <!--START_SECTION:waka-->
 ```text
-Week: 09 June, 2021 - 16 June, 2021
-
 YAML         1 hr 10 mins    ███████████████▓░░░░░░░░░   62.95 % 
 JSON         14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
 JavaScript   12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
