@@ -22,6 +22,8 @@
 ## :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
+Week: 10 June, 2021 - 17 June, 2021
+
 YAML         2 hrs 13 mins   ████████████████▓░░░░░░░░   66.36 % 
 Markdown     28 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.30 % 
 JavaScript   22 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
