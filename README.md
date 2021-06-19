@@ -21,6 +21,15 @@
 | [vue-drag-tree-org](https://github.com/wangdabaoqq/vue-drag-tree)    |  基于Vue开发的拖拽组织树  |   <img src="https://img.shields.io/badge/stars-187-success">  |
 ## :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
+```text
+Week: 11 June, 2021 - 18 June, 2021
+
+YAML         2 hrs 19 mins   ██████████████▓░░░░░░░░░░   58.37 % 
+Markdown     57 mins         ██████░░░░░░░░░░░░░░░░░░░   24.03 % 
+JavaScript   22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+JSON         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+HTML         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+```
 <!--END_SECTION:waka-->
 
 
