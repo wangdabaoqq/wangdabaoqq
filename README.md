@@ -22,7 +22,9 @@
 ## :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 18 July, 2021 - 25 July, 2021
+
+Vue.js       6 mins          ███████████████████████▓░   95.23 % 
 ```
 <!--END_SECTION:waka-->
 
