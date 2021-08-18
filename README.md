@@ -22,7 +22,7 @@
 ## :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 09 August, 2021 - 16 August, 2021
+Week: 10 August, 2021 - 17 August, 2021
 
 JavaScript   20 hrs 36 mins  █████████████░░░░░░░░░░░░   51.67 % 
 Vue.js       16 hrs 53 mins  ██████████▓░░░░░░░░░░░░░░   42.34 % 
