@@ -22,7 +22,7 @@
 ## :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 20 September, 2021 - 27 September, 2021
+Week: 21 September, 2021 - 28 September, 2021
 
 Vue.js       39 hrs 53 mins  ██████████████▒░░░░░░░░░░   57.28 % 
 JavaScript   25 hrs 19 mins  █████████░░░░░░░░░░░░░░░░   36.37 % 
