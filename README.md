@@ -22,7 +22,11 @@
 ## :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 30 September, 2021 - 07 October, 2021
+
+JavaScript   2 hrs 23 mins   ██████████████████░░░░░░░   71.73 % 
+Vue.js       42 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.25 % 
+HTML         13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
 ```
 <!--END_SECTION:waka-->
 
