@@ -22,7 +22,7 @@
 ## :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 02 October, 2021 - 09 October, 2021
+Week: 03 October, 2021 - 10 October, 2021
 
 JavaScript   6 hrs 25 mins   ██████████████████░░░░░░░   72.62 % 
 Vue.js       1 hr 53 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.37 % 
