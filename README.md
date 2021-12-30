@@ -22,13 +22,13 @@
 ## :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 10 October, 2021 - 17 October, 2021
+Week: 22 December, 2021 - 29 December, 2021
 
-Vue.js       12 hrs 9 mins   ███████████████▓░░░░░░░░░   63.10 % 
-JavaScript   5 hrs 17 mins   ███████░░░░░░░░░░░░░░░░░░   27.44 % 
-JSON         1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-HTML         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-Text         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+TypeScript   9 hrs 13 mins   █████████████▓░░░░░░░░░░░   55.23 % 
+HTML         4 hrs 31 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.10 % 
+JSON         1 hr 25 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+LESS         51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+Markdown     28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
 ```
 <!--END_SECTION:waka-->
 
