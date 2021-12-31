@@ -22,7 +22,7 @@
 ## :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 22 December, 2021 - 29 December, 2021
+Week: 23 December, 2021 - 30 December, 2021
 
 TypeScript   9 hrs 15 mins   ███████████████░░░░░░░░░░   59.97 % 
 HTML         3 hrs 54 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.39 % 
