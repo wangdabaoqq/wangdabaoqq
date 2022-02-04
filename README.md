@@ -22,7 +22,7 @@
 ## :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 26 January, 2022 - 02 February, 2022
+Week: 27 January, 2022 - 03 February, 2022
 
 Other        1 hr 10 mins    ████████▓░░░░░░░░░░░░░░░░   34.34 % 
 JSON         56 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.19 % 
