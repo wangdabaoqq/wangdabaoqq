@@ -22,9 +22,7 @@
 ## :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 28 January, 2022 - 04 February, 2022
-
-JavaScript   9 mins          █████████████████████████   99.74 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
