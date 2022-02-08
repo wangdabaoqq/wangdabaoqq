@@ -22,7 +22,13 @@
 ## :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 31 January, 2022 - 07 February, 2022
+
+TypeScript   1 hr 17 mins    █████████████░░░░░░░░░░░░   52.07 % 
+Markdown     35 mins         ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
+HTML         24 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+JSON         7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+LESS         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
 ```
 <!--END_SECTION:waka-->
 
