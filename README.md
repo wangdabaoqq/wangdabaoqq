@@ -22,7 +22,7 @@
 ## :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 08 February, 2022 - 15 February, 2022
+Week: 09 February, 2022 - 16 February, 2022
 
 JSON   14 mins         ████████████████████▒░░░░   81.49 % 
 HTML   3 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.34 % 
