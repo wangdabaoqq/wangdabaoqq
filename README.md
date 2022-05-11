@@ -22,7 +22,7 @@
 ## :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 02 May, 2022 - 09 May, 2022
+Week: 03 May, 2022 - 10 May, 2022
 
 Docker       8 hrs 26 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.06 % 
 TypeScript   7 hrs 33 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.46 % 
