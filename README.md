@@ -22,7 +22,7 @@
 ## :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 05 May, 2022 - 12 May, 2022
+Week: 06 May, 2022 - 13 May, 2022
 
 Other        8 hrs 50 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.00 % 
 Docker       7 hrs 54 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.38 % 
