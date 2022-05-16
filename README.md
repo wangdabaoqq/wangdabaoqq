@@ -22,7 +22,7 @@
 ## :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 07 May, 2022 - 14 May, 2022
+Week: 08 May, 2022 - 15 May, 2022
 
 Other        8 hrs 47 mins   ███████░░░░░░░░░░░░░░░░░░   27.40 % 
 JavaScript   6 hrs 27 mins   █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
