@@ -22,7 +22,7 @@
 ## :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 24 May, 2022 - 31 May, 2022
+Week: 25 May, 2022 - 01 June, 2022
 
 TypeScript   12 hrs          █████████████░░░░░░░░░░░░   51.70 % 
 JavaScript   7 hrs 2 mins    ███████▓░░░░░░░░░░░░░░░░░   30.35 % 
