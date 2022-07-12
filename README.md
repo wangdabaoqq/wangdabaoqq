@@ -22,7 +22,7 @@
 ## :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 03 July, 2022 - 10 July, 2022
+Week: 04 July, 2022 - 11 July, 2022
 
 JavaScript   7 hrs 21 mins   ███████████▒░░░░░░░░░░░░░   45.61 % 
 TypeScript   5 hrs 16 mins   ████████░░░░░░░░░░░░░░░░░   32.64 % 
