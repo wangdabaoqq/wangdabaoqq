@@ -22,7 +22,7 @@
 ## :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 02 August, 2022 - 09 August, 2022
+Week: 03 August, 2022 - 10 August, 2022
 
 TypeScript   30 hrs 7 mins   █████████████░░░░░░░░░░░░   52.13 % 
 Vue.js       16 hrs 1 min    ███████░░░░░░░░░░░░░░░░░░   27.71 % 
