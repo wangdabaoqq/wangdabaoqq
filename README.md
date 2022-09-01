@@ -22,13 +22,7 @@
 ## :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 24 August, 2022 - 31 August, 2022
-
-TypeScript   3 hrs 28 mins   █████████████████████▒░░░   84.73 % 
-Docker       13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-Other        8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-JSON         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-CSS          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
