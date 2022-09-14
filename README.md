@@ -24,9 +24,8 @@
 ```text
 Week: 06 September, 2022 - 13 September, 2022
 
-TypeScript   7 hrs 24 mins   ██████████████████░░░░░░░   72.21 % 
-HTML         2 hrs 43 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.60 % 
-LESS         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+TypeScript   3 hrs 7 mins    ███████████████████████░░   92.05 % 
+HTML         15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
 ```
 <!--END_SECTION:waka-->
 
