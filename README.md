@@ -22,7 +22,11 @@
 ## :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 02 October, 2022 - 09 October, 2022
+
+TypeScript   25 mins         ███████████░░░░░░░░░░░░░░   44.25 % 
+HTML         22 mins         █████████▓░░░░░░░░░░░░░░░   38.87 % 
+JSON         9 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.70 % 
 ```
 <!--END_SECTION:waka-->
 
