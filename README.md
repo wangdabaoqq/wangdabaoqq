@@ -24,11 +24,11 @@
 ```text
 Week: 08 October, 2022 - 15 October, 2022
 
-TypeScript   11 hrs 51 mins  ████████████▒░░░░░░░░░░░░   49.19 % 
-Other        4 hrs 12 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.44 % 
-JavaScript   3 hrs 26 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-HTML         3 hrs 23 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Docker       36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+TypeScript   9 hrs 56 mins   ████████████░░░░░░░░░░░░░   48.03 % 
+Other        4 hrs 5 mins    █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+JavaScript   3 hrs 26 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+HTML         2 hrs 2 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+Docker       36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
 ```
 <!--END_SECTION:waka-->
 
