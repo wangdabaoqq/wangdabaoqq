@@ -22,7 +22,7 @@
 ## :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 08 October, 2022 - 15 October, 2022
+Week: 09 October, 2022 - 16 October, 2022
 
 TypeScript   9 hrs 56 mins   ████████████░░░░░░░░░░░░░   48.03 % 
 Other        4 hrs 5 mins    █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
