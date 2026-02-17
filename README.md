@@ -78,9 +78,13 @@
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=wangdabaoqq&show_icons=true&locale=en&layout=compact)
+<div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=wangdabaoqq&show_icons=true&locale=en)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=wangdabaoqq&show_icons=true&locale=en&layout=compact&theme=default)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=wangdabaoqq&show_icons=true&locale=en&theme=default)
+
+</div>
 
 <hr>
 
