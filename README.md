@@ -80,9 +80,9 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=wangdabaoqq&show_icons=true&locale=en&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=wangdabaoqq&show_icons=true&locale=en&layout=compact&theme=default)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=wangdabaoqq&show_icons=true&locale=en&theme=default)
+![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=wangdabaoqq&show_icons=true&locale=en&theme=default)
 
 </div>
 
@@ -133,5 +133,4 @@ And that's about it. The `README.md` of your profile readme repository will be d
 Credits: [Akash chowrasia](https://github.com/Akash-chowrasia) & [wangdabaoqq](https://github.com/wangdabaoqq)
 
 Last Edited on: 18/02/2026
-
 
