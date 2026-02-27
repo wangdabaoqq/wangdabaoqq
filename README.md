@@ -80,7 +80,7 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=wangdabaoqq&show_icons=true&locale=en&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=wangdabaoqq&show_icons=true&locale=en&layout=compact&theme=default&hide=html)
 
 ![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=wangdabaoqq&show_icons=true&locale=en&theme=default)
 
