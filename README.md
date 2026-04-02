@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wangdabaoqq/imgPicGo/93b5544bd58044f88dacc48b1a36c21b9d4fd1f9/Gemini_Generated_Image_pgd9ztpgd9ztpgd9.png?token=AFMCFZDDIFSMR5YLMYD6EELJZYWEA" height="200"/>
+  <img src="https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png" height="200"/>
 </p>
 <hr>
 
